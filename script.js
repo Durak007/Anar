@@ -1,6 +1,6 @@
 // Add the confirmed Northstar Social contact email here once the mailbox is created.
 // Example: const CONTACT_EMAIL = "your-confirmed-address@gmail.com";
-const CONTACT_EMAIL = "";
+const CONTACT_EMAIL = "kirau951@gmail.com";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 const toast = document.getElementById("contact-toast");
@@ -21,4 +21,5 @@ document.querySelectorAll(".contact-link").forEach((link) => {
     }
   });
 });
+
 
